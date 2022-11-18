@@ -1,0 +1,14 @@
+{
+    "name": "Random Joke Generator",
+    "description": "Get a new Joke Everytime with a click",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "haha_logo.png"
+    },
+    "icons": {
+        "128": "haha_logo.png"
+    },
+    "permissions": ["activeTab"]
+} 
